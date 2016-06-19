@@ -1,0 +1,2 @@
+git+https://github.com/eskerda/pybikes.git@bc7f76a0b5f8d44b8a94c09c717763fe1f12a356#egg=pybikes
+
