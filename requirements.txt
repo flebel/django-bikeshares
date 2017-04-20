@@ -1,2 +1,2 @@
-git+https://github.com/eskerda/pybikes.git@ba2ff1458c5a5037cf4680096549fbdb242baf9b#egg=pybikes
+git+https://github.com/flebel/pybikes.git@62d044fb27a843c2e867b388c7f7f201d5da9728#egg=pybikes
 
